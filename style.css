@@ -1,0 +1,15 @@
+h2 {
+color: aqua;
+text-align: center;
+}
+
+body {
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+
+button{
+    background-color: aquamarine;
+    border-bottom: ridge;
+    text-align: center;
+}
